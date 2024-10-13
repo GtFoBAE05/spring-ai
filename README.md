@@ -15,7 +15,8 @@ This project demonstrates how to integrate Ollama with Spring Boot.
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/GtFoBAE05/spring-ai.git
+
    ```
 2. Configure the server port and Ollama model in your application properties.
 3. Run the Spring Boot application:
